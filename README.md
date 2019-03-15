@@ -24,5 +24,6 @@ Have fun!
 
 ## Learning Resources
 [React docs](https://reactjs.org/)
+
 [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react/)
 
