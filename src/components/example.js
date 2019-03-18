@@ -5,7 +5,7 @@ import React, { Component } from 'react';
  */
 class Example extends Component {
     render () {
-        const date = new Date().toDateString()
+        const date = new Date().toDateString();
         return (
             <div>
                 The date is {date}
